@@ -1,0 +1,30 @@
+
+[
+java:S4973#"9Use the "equals" method if value comparison was intended.(¥¿’øÿÿÿÿ8 ÚÛ‘ı.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(½áØÔùÿÿÿÿ8 ÚÛ‘ı.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(‹„Ö¨8 ÚÛ‘ı.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ş º·úÿÿÿÿ8 ÚÛ‘ı.
+V
+java:S3400L"9Remove this method and declare a constant for this value.(È¸å8 ÚÛ‘ı.
+C
+java:S2129!"!Remove this "Integer" constructor(”ëâËÿÿÿÿÿ8 ÚÛ‘ı.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(”ß¦íúÿÿÿÿ8 ÚÛ‘ı.
+Q
+java:S1874!"/Remove this use of "Integer"; it is deprecated.(”ëâËÿÿÿÿÿ8 ÚÛ‘ı.
+=
+java:S2129""!Remove this "Integer" constructor(Ãå8 ÚÛ‘ı.
+m
+java:S1764&"KCorrect one of the identical sub-expressions on both sides of operator "<<"(Şùôÿÿÿÿÿ8 ÚÛ‘ı.
+X	java:S125"<This block of commented-out lines of code should be removed.(åê÷•8 ÚÛ‘ı.
+K
+java:S1874""/Remove this use of "Integer"; it is deprecated.(Ãå8 ÚÛ‘ı.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(Şùôÿÿÿÿÿ8 ÚÛ‘ı.
+›
+java:S1130"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(ªù›“øÿÿÿÿ8 ÚÛ‘ı.
+>
+java:S2129 "!Remove this "Integer" constructor(íÔ’«8 ÚÛ‘ı.
+]	java:S125"<This block of commented-out lines of code should be removed.(ŞÃ†€ıÿÿÿÿ8ü¿¨èü.
+L
+java:S1874 "/Remove this use of "Integer"; it is deprecated.(íÔ’«8 ÚÛ‘ı.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(¥¿’øÿÿÿÿ8 ÚÛ‘ı.

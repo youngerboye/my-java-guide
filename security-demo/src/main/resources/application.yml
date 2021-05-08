@@ -1,0 +1,5 @@
+jwt:
+  header: Authorization
+  token-start-with: Bearer
+  base64-secret: 87789***71699q7
+  token-validity-in-seconds: 14000000

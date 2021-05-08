@@ -1,0 +1,12 @@
+server:
+  port: 9401
+spring:
+  application:
+    name: oauth2-server
+  redis:
+    host: 192.168.198.101
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.198.101:3306/oauth?useSSL=false&useUnicode=true&characterEncoding=UTF-8
+    username: root
+    password: 123456

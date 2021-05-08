@@ -1,0 +1,18 @@
+
+V	java:S125/"<This block of commented-out lines of code should be removed.(Œôƒ­þÿÿÿÿ
+S
+java:S1226N">Introduce a new variable instead of reusing the parameter "a".(ÿ¾›8
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(£ÆÏÁ8—µØ•ý.
+Q	java:S125"<This block of commented-out lines of code should be removed.(”©Àõ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(ÞªìÈÿÿÿÿÿ
+V	java:S1255"<This block of commented-out lines of code should be removed.(ƒ”Ãçÿÿÿÿÿ
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(¢ºÓÛúÿÿÿÿ8¨‡Ù•ý.
+Q	java:S125"<This block of commented-out lines of code should be removed.(îèþâ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(Ž†¬É
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+Y
+java:S1226G">Introduce a new variable instead of reusing the parameter "x".(ÔŽ­µúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œºÛ¿
+V	java:S125"<This block of commented-out lines of code should be removed.(•þâýÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(ïŸÍ„ÿÿÿÿÿ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(‘ÙëÚ
