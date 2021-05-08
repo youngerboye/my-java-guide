@@ -1,7 +1,7 @@
 package com.young.myoauth2server.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.young.myoauth2server.entity.Authorities;
+import com.young.myoauth2server.entity.Permissions;
 import org.springframework.stereotype.Repository;
 
 /**
@@ -10,5 +10,5 @@ import org.springframework.stereotype.Repository;
  * @description:
  */
 @Repository
-public interface AuthoritiesMapper extends BaseMapper<Authorities> {
+public interface AuthoritiesMapper extends BaseMapper<Permissions> {
 }

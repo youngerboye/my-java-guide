@@ -1,4 +1,4 @@
-package com.young.myoauth2server.entity;
+package com.young.myoauth2server.config;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

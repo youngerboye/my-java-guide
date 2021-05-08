@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MyBatisCodeHelperDatasource">
+    <option name="projectProfile">
+      <ProjectProfile>
+        <option name="mapperFilesFolder" value="E:\JavaProject\java-guide\my-oauth2-server\src\main\resources" />
+        <option name="mapperFilesFolderList">
+          <list>
+            <option value="E:\JavaProject\java-guide\my-oauth2-server\src\main\resources" />
+          </list>
+        </option>
+      </ProjectProfile>
+    </option>
+  </component>
+</project>

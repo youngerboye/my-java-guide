@@ -10,3 +10,10 @@ spring:
     url: jdbc:mysql://192.168.198.101:3306/oauth?useSSL=false&useUnicode=true&characterEncoding=UTF-8
     username: root
     password: 123456
+
+mybatis-plus:
+  mapper-locations: mapper/*.xml
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+    banner: false
