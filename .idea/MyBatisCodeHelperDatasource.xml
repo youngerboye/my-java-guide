@@ -3,10 +3,11 @@
   <component name="MyBatisCodeHelperDatasource">
     <option name="projectProfile">
       <ProjectProfile>
-        <option name="mapperFilesFolder" value="E:\JavaProject\java-guide\my-oauth2-server\src\main\resources" />
+        <option name="mapperFilesFolder" value="D:\Javaproject\my-java-guide\my-oauth2-server\src\main\resources\mapper" />
         <option name="mapperFilesFolderList">
           <list>
             <option value="E:\JavaProject\java-guide\my-oauth2-server\src\main\resources" />
+            <option value="D:\Javaproject\my-java-guide\my-oauth2-server\src\main\resources\mapper" />
           </list>
         </option>
       </ProjectProfile>

@@ -1,8 +1,6 @@
-package com.young.myoauth2server.controller;
+package com.young.myoauthclient.controller;
 
-import com.young.myoauth2server.entity.Users;
 import org.springframework.security.access.prepost.PreAuthorize;
-import org.springframework.security.core.Authentication;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -19,19 +17,19 @@ public class ProductController {
 
     @PreAuthorize("hasAuthority('product::add')")
     @GetMapping("/add")
-    public Object add(Users users) {
+    public Object add() {
         return "添加成功";
     }
 
     @PreAuthorize("hasAuthority('product::update')")
     @GetMapping("/update")
-    public Object update(Users users) {
+    public Object update() {
         return "更新成功";
     }
 
     @PreAuthorize("hasAuthority('product::delete')")
     @GetMapping("/delete")
-    public Object delete(Users users) {
+    public Object delete() {
         return "删除成功";
     }
 }

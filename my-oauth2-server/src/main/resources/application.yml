@@ -4,12 +4,13 @@ spring:
   application:
     name: oauth2-server
   redis:
-    host: 192.168.198.101
+    host: 192.168.116.101
   datasource:
-    driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://192.168.198.101:3306/oauth?useSSL=false&useUnicode=true&characterEncoding=UTF-8
-    username: root
-    password: 123456
+      driver-class-name: com.mysql.jdbc.Driver
+      username: root
+      password: YZw19910929
+      url: jdbc:mysql://106.14.188.11:3306/oauth?useSSL=false&useUnicode=true&characterEncoding=UTF-8
+
 
 mybatis-plus:
   mapper-locations: mapper/*.xml

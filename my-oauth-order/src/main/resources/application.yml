@@ -8,6 +8,11 @@ oauth2-server-url: http://localhost:9401
 spring:
   application:
     name: oauth2-client
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: YZw19910929
+    url: jdbc:mysql://106.14.188.11:3306/oauth?useSSL=false&useUnicode=true&characterEncoding=UTF-8
 security:
   oauth2:
     client:

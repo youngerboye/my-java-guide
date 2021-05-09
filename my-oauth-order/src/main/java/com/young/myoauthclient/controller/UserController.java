@@ -1,9 +1,7 @@
-package com.young.myoauth2server.controller;
+package com.young.myoauthclient.controller;
 
-import com.young.myoauth2server.entity.Users;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.Authentication;
-import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -20,7 +18,7 @@ public class UserController {
 
     @PreAuthorize("hasAuthority('user::add')")
     @GetMapping("/add")
-    public Object addUser(Users users) {
+    public Object addUser() {
         return "添加成功";
     }
 
